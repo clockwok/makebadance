@@ -1,5 +1,5 @@
 {
-"package" : "paydayguide.paydayloan.paydayinstant.paydayquickloan",
+"package" : "pancardpeloan.applyloanonpancard.loanonpancard",
 "facebook_banner_ad_id": [
       "YOUR_PLACEMENT_ID",
       "YOUR_PLACEMENT_ID"
