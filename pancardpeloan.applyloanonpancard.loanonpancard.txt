@@ -17,7 +17,7 @@
       "YOUR_PLACEMENT_ID"
 ],
 "admob_appopen_ad_id": [
-      "/6499/example/app-open-new"
+      "/6499/example/app_open_new"
 ],
 "admob_banner_ad_id": [
     "/6499/example/banner"
