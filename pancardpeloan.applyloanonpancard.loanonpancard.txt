@@ -1,35 +1,35 @@
 {
 "package" : "pancardpeloan.applyloanonpancard.loanonpancard",
 "facebook_banner_ad_id": [
-      "YOUR_PLACEMENT_ID0",
-      "YOUR_PLACEME0NT_ID"
+      "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
 ],
 "facebook_bottom_native_ad_id": [
-      "YOUR_PLACEMEN0T_ID",
-      "YOUR_PLACEM0ENT_ID"
+      "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
 ],
 "facebook_interstitial_ad_id": [
-      "YOUR_PLACEM0ENT_ID",
-      "YOUR_PLACE0MENT_ID"
+      "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
 ],
 "facebook_native_ad_id": [
-      "YOUR_PLACEM0ENT_ID",
-      "YOUR_PLACE0MENT_ID"
+      "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
 ],
 "admob_appopen_ad_id": [
       "ca-app-pub-03940256099942544/3419835294"
 ],
 "admob_banner_ad_id": [
-    "/6499/examp0le/banner"
+    "/6499/example/banner"
 ],
 "admob_bottom_native_ad_id": [
-    "/6499/exa0mple/native"
+    "/6499/example/native"
 ],
 "admob_interstitial_ad_id": [
-    "/6499/ex0ample/interstitial"
+    "/6499/example/interstitial"
 ],
 "admob_native_ad_id": [
-    "/6499/exa0mple/native"
+    "/6499/example/native"
 ],
 "orginic_ads_type": "admob",
 "orginic_bottom_ads_type": "nativebanner",
@@ -88,7 +88,7 @@
 "analytics": false,
 "coming_soon": false,
 "update_coming_soon": false,
-"starting_screen_content_show": 5,
+"starting_screen_content_show": 4,
 "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
