@@ -30,7 +30,7 @@
 
   ],
   "admob_native_ad_id": [
-    ""
+       "/6499/example/native"
   ],
   "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
