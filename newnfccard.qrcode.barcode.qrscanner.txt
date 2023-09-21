@@ -1,16 +1,20 @@
 {
   "package": "newnfccard.qrcode.barcode.qrscanner",
   "facebook_banner_ad_id": [
-    ""
+     "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
   ],
   "facebook_bottom_native_ad_id": [
-    ""
+     "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
   ],
   "facebook_interstitial_ad_id": [
-    ""
+   "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
   ],
   "facebook_native_ad_id": [
-    ""
+ "YOUR_PLACEMENT_ID",
+      "YOUR_PLACEMENT_ID"
   ],
   "admob_appopen_ad_id": [
     ""
