@@ -26,7 +26,8 @@
         "/6499/example/native"
   ],
   "admob_interstitial_ad_id": [
-    ""
+    "/6499/example/interstitial"
+
   ],
   "admob_native_ad_id": [
     ""
