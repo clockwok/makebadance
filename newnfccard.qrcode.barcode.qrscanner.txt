@@ -1,5 +1,5 @@
 {
-  "package": "wplay.winandplay.offlinegames.wgames",
+  "package": "newnfccard.qrcode.barcode.qrscanner",
   "facebook_banner_ad_id": [
     ""
   ],
