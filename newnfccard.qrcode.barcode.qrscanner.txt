@@ -20,7 +20,7 @@
      "ca-app-pub-03940256099942544/3419835294"
   ],
   "admob_banner_ad_id": [
-    ""
+ "/6499/example/banner"
   ],
   "admob_bottom_native_ad_id": [
     ""
