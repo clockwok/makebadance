@@ -1,36 +1,32 @@
 {
   "package": "newnfccard.qrcode.barcode.qrscanner",
   "facebook_banner_ad_id": [
-     "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+     ""
   ],
   "facebook_bottom_native_ad_id": [
-     "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+    ""
   ],
   "facebook_interstitial_ad_id": [
-   "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+     ""
   ],
   "facebook_native_ad_id": [
- "YOUR_PLACEMENT_ID",
-      "YOUR_PLACEMENT_ID"
+     ""
+  
   ],
   "admob_appopen_ad_id": [
-     "ca-app-pub-03940256099942544/3419835294"
+     ""
   ],
   "admob_banner_ad_id": [
- "/6499/example/banner"
+   ""
   ],
   "admob_bottom_native_ad_id": [
-        "/6499/example/native"
+        ""
   ],
   "admob_interstitial_ad_id": [
-    "/6499/example/interstitial"
-
+      ""
   ],
   "admob_native_ad_id": [
-       "/6499/example/native"
+       ""
   ],
   "ads_type": "facebook",
   "bottom_ads_type": "nativebanner",
@@ -70,8 +66,8 @@
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
   "quizzo_link": "https://play771.atmequiz.com/start",
-  "quizzo_show": false,
-  "quizzo_header_show": false,
+  "quizzo_show": true,
+  "quizzo_header_show": true,
   "redirect": false,
   "quiz_show_after_inter": false,
   "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
