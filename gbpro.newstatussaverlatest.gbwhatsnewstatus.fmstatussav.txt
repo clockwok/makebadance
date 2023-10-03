@@ -1,5 +1,5 @@
 {
-"package" : "fakecashmaker.moneybuster.fakepaymoney.fakemoneytransferapp",
+"package" : "gbpro.newstatussaverlatest.gbwhatsnewstatus.fmstatussav",
 "facebook_banner_ad_id": [
       "YOUR_PLACEMENT_ID",
       "YOUR_PLACEMENT_ID"
