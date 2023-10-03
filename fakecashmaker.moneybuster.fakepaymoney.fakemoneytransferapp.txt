@@ -1,5 +1,5 @@
 .{
-  "package": "newnfccard.qrcode.barcode.qrscanner",
+  "package": "fakecashmaker.moneybuster.fakepaymoney.fakemoneytransferapp",
   "facebook_banner_ad_id": [
     "YOUR_PLACEMENT_ID",
     "YOUR_PLACEMENT_ID"
