@@ -1,5 +1,5 @@
 {
-  "package": "fakecashmaker.moneybuster.fakepaymoney.fakemoneytransferapp",
+  "package": "mod_ff_skin.modskininjector.ffskintool.SkinToolsProF",
   "facebook_banner_ad_id": [
     "YOUR_PLACEMENT_ID",
     "YOUR_PLACEMENT_ID"
