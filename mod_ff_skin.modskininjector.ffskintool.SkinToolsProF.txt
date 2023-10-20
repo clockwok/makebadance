@@ -5,7 +5,7 @@
   "fb_interstitial_id": "YOUR_PLACEMENT_ID",
   "facebook_native_ad_id": "YOUR_PLACEMENT_ID",
   "admob_appopen_ad_id_arraylist": [
-    "ca-app-pub-5580537606944457~2487742204"
+    "ca-app-pub-3940256099942544/3419835294"
   ],
   "admob_banner_ad_id_arraylist": [
     "/6499/example/banner"
