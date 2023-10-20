@@ -33,7 +33,7 @@
   "banner_ads_click": 0,
   "one_id_load_thay_hoy_ne": true,
   "app_key": "UM7U5rA1ZY",
-  "ads_free": true,
+  "ads_free": false,
   "ads_failed_load_hoy_ne": false,
   "fb_native_failed_show": false,
   "admob_native_failed_show": false,
