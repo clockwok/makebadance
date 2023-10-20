@@ -1,48 +1,49 @@
 {
   "package": "mod_ff_skin.modskininjector.ffskintool.SkinToolsProF",
-  "facebook_banner_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
-  "facebook_bottom_native_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
-  "facebook_interstitial_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
-  "facebook_native_ad_id": [
-    "YOUR_PLACEMENT_ID",
-    "YOUR_PLACEMENT_ID"
-  ],
-  "admob_appopen_ad_id": [
+  "facebook_Banner_ad_id": "YOUR_PLACEMENT_ID",
+  "facebook_bottom_native_ad_id": "YOUR_PLACEMENT_ID",
+  "fb_interstitial_id": "YOUR_PLACEMENT_ID",
+  "facebook_native_ad_id": "YOUR_PLACEMENT_ID",
+  "admob_appopen_ad_id_arraylist": [
     "ca-app-pub-3940256099942544/3419835294"
   ],
-  "admob_banner_ad_id": [
+  "admob_banner_ad_id_arraylist": [
     "/6499/example/banner"
   ],
-  "admob_bottom_native_ad_id": [
+  "admob_bottom_native_ad_id_arraylist": [
     "/6499/example/native"
   ],
-  "admob_interstitial_ad_id": [
+  "admob_interstitial_ad_id_arraylist": [
     "/6499/example/interstitial"
   ],
-  "admob_native_ad_id": [
+  "admob_native_ad_id_arraylist": [
     "/6499/example/native"
   ],
   "facebook_back_ads_not_show": true,
+  "facebook_banner_size": 320,
+  "yodo_banner_size": "320",
+  "facebook_native_ad_type": "native",
   "ads_type": "facebook",
-  "bottom_ads_type": "nativebanner",
+  "native_banner_ads_type": "nativebanner",
   "ads_show_type": "load",
   "native_banner_show": true,
   "ads_click": 0,
   "back_click": 0,
-  "native_page_wise": 0,
-  "bottom_page_wise": 0,
+  "native_ads_click": 0,
+  "banner_ads_click": 0,
   "one_id_load_thay_hoy_ne": true,
-  "ads_free": false,
+  "app_key": "IVpvu7i622",
+  "ads_free": true,
   "ads_failed_load_hoy_ne": false,
+  "fb_native_failed_show": false,
+  "admob_native_failed_show": false,
+  "yodo_native_failed_show": false,
+  "fb_banner_failed_show": false,
+  "admob_banner_failed_show": false,
+  "yodo_banner_failed_show": false,
+  "fb_interstitial_failed_show": false,
+  "admob_interstitial_failed_show": false,
+  "yodo_interstitial_failed_show": false,
   "starting_screen_content_show": 5,
   "privacy_policy": "https://rksoftwaremedia.blogspot.com/",
   "quizzo_link": "https://play771.atmequiz.com/start",
